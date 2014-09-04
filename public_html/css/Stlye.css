@@ -1,0 +1,55 @@
+body {
+    background-color: background;
+}
+
+nav a {
+    color: white;
+}
+
+p a {
+    color: gold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#current-link {
+    text-decoration: none;
+    font-size: 20px;    
+}
+
+.uppercase {
+    text-transform: uppercase;
+    font-size:38px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+   
+}
+
+h1{
+    border: 10px solid white;
+    padding-top: 5px;    
+    padding-bottom: 15px;
+    padding-left: 10px;
+    margin-right: 300px;
+}
+
+article{
+    color: maroon;
+    font-size: 20px;
+}
+
+#projects{
+    text-decoration: none;
+    font-size: 20px;
+}
+#app{
+    
+}
+
+#Technology{
+    text-decoration: none;
+    font-size: 20px;
+}
