@@ -55,12 +55,22 @@ article{
 }
 
 img{
-    width: 100px;
+    width: 400px;
     length: auto;
 }
 
 #html{
-    width:10px;
+    width:200px;
     height: auto;
     
+}
+
+#css{
+    width: 200px;
+    height: auto;
+}
+
+#google{
+    width: 200px;
+    height: auto;
 }
