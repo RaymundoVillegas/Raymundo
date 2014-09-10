@@ -33,7 +33,7 @@ h1{
     padding-top: 5px;    
     padding-bottom: 15px;
     padding-left: 10px;
-    margin-right: 300px;
+    margin-right: 1000px;
 }
 
 article{
@@ -52,4 +52,15 @@ article{
 #Technology{
     text-decoration: none;
     font-size: 20px;
+}
+
+img{
+    width: 100px;
+    length: auto;
+}
+
+#html{
+    width:10px;
+    height: auto;
+    
 }
